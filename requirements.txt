@@ -1,1 +1,11 @@
-#Add the project dependencies to this file
+# Core dependencies for Team Project Planner
+django>=4.2.0,<5.0.0
+djangorestframework>=3.14.0,<4.0.0
+
+# Development and testing dependencies (optional)
+# Uncomment for development environment
+# pytest>=7.0.0
+# pytest-django>=4.5.0
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.910
